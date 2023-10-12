@@ -74,23 +74,6 @@
 
 7.2.2 Hyperparameter Tuning Using GridSearchCV
 
-#### 7.3 Adding another classifier - XGBoost
-
-7.3.1 K-Fold Cross-validation
-
-7.3.2 Hyperparameter Tuning Using GridSearchCV
-
-7.3.3 K-Fold Cross-validation
-
-#### 7.4 Voting Clasifier
-
-7.4.1 K-Fold Cross-validation
-
-### 8. Result comparison
-
-8.1 AUC-ROC Curve for the best algorithm
-
-8.2 Precision-Recall Curve (PR curve) for the best algorithm
 
 
 
