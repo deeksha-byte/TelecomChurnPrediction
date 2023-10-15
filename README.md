@@ -65,8 +65,9 @@
 6.3.2 Test data set
 
 ### 7. Model building
-
-7.1 Feature importance
+7.1 Logistic regression
+7.2 SVM
+7.3 Feature importance
 
 #### 7.2 Baseline - Random Forest
 
